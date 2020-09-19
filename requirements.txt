@@ -1,0 +1,11 @@
+discord.py==1.3.4
+youtube_dl
+pandas
+dnspython==1.16.0
+discord.py[voice]==2.1.0
+pyNaCl==1.3.0
+wikipedia
+chatbotai
+praw
+lavalink==3.1.2
+

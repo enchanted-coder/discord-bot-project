@@ -4,10 +4,11 @@ import praw
 from discord.utils import get
 from discord.ext import commands
 
-reddit = praw.Reddit(client_id = "nlbVe1qRb47TaQ",
-                    client_secret = "suHhQAaWUWHFTk1rQyMs9whLk8U",
-                    username = "dd0n3",
-                    password = "changemenow5216",
+#needs to be filled in
+reddit = praw.Reddit(client_id = "",
+                    client_secret = "",
+                    username = "",
+                    password = "",
                     user_agent = "pythonpraw")
 
 class Subreddits(commands.Cog):
